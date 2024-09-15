@@ -33,7 +33,8 @@
   }
 
   video {
-    pointer-events: none;
+    user-select: none;
+    touch-action: none;
   }
 }
 

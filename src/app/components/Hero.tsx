@@ -10,7 +10,7 @@ function Hero() {
         autoPlay
         loop
         muted
-        className="absolute top-0 left-0 w-full h-full object-cover pointer-events-none"
+        className="absolute top-0 left-0 w-full h-full object-cover"
       >
         <source
           src="/assets/hero/133988-758552232_small.mp4"
